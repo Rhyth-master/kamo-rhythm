@@ -1,0 +1,13 @@
+{
+    "language": "ja",
+    "plugins": ["theme-api", "-sharing", "hide-published-with", "musicxml", "katex"],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        },
+        "mathjax": {
+            "forceSVG": true,
+            "version":  "2.7.6"
+        }
+    }
+}
